@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Max. I am a PhD student at the University of Pittsburgh Department of Biomedical Informatics. I am working in the [Batman Lab](https://www.batman-lab.com/) where my research focusses on neuroimaging and Alzheimer's disease.
+My name is Max Reynolds. I am a PhD student at the University of Pittsburgh Department of Biomedical Informatics. I am working in the [Batman Lab](https://www.batman-lab.com/) where my research focusses on neuroimaging and Alzheimer's disease.
 
-Test
+
+Before beginning my PhD I worked as a software engineer at Freespira, a startup medical device company that treats panic disorder and PTSD with digital, non-invasive solutions.
+
 
 <!-- A data-driven personal website
 ======
